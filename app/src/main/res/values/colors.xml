@@ -8,4 +8,5 @@
     <color name="matchDrowbg">#48D2FE</color>
     <color name="player0bg">#E2BE00</color>
     <color name="mainBG">#3E001F</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>

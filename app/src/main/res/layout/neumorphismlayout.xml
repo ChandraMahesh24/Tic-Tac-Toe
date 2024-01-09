@@ -295,7 +295,7 @@
             android:id="@+id/restButton"
             android:layout_width="120dp"
             android:layout_height="80dp"
-            android:text="Rest Game"
+            android:text="Reset Game"
             android:textSize="16sp"
             android:textStyle="bold"
             android:layout_marginTop="30dp"
@@ -306,7 +306,7 @@
             app:neumorph_shadowColorDark="#2B0216"
             >
         </soup.neumorphism.NeumorphButton>
-        <soup.neumorphism.NeumorphTextView
+        <soup.neumorphism.NeumorphButton
             android:id="@+id/winnerTextView"
             android:layout_width="120dp"
             android:layout_height="80dp"
@@ -320,7 +320,7 @@
             android:textColor="@color/white"
             app:neumorph_shadowColorLight="#4C112F"
             app:neumorph_shadowColorDark="#2B0216">
-        </soup.neumorphism.NeumorphTextView>
+        </soup.neumorphism.NeumorphButton>
     </LinearLayout>
 
 
